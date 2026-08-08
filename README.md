@@ -63,14 +63,18 @@ Host: example.com
 
 
 ## nmap:
-###output
-<img width="1028" height="692" alt="image" src="https://github.com/user-attachments/assets/4b647aa5-abcc-4243-8e63-d2946307a9e9" />
+##output
+
 <img width="1022" height="699" alt="image" src="https://github.com/user-attachments/assets/ee2395e0-8d71-4b30-8875-eb053b16cecb" />
 
 
 ## Whatweb
 ### output
 <img width="1024" height="696" alt="image" src="https://github.com/user-attachments/assets/559f77a1-270e-4bb4-9d17-64b1f375d1f4" />
+<img width="1332" height="713" alt="image" src="https://github.com/user-attachments/assets/8fb48928-698f-428e-966f-0aaf64d35b68" />
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/53ca20ed-29f4-4a9a-a5a7-9c30a7210e47" />
+<img width="1536" height="864" alt="image" src="https://github.com/user-attachments/assets/2a34a3e4-8ee6-4974-b029-3499efb94e90" />
+<img width="1529" height="860" alt="image" src="https://github.com/user-attachments/assets/321328eb-6c93-41f9-a551-60a08cbc6239" />
 
 
 ## httprint
