@@ -63,7 +63,7 @@ Host: example.com
 
 
 ## nmap:
-##output
+## output
 
 <img width="1022" height="699" alt="image" src="https://github.com/user-attachments/assets/ee2395e0-8d71-4b30-8875-eb053b16cecb" />
 
